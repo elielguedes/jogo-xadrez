@@ -8,7 +8,5 @@ public class Main {
 
         ChessMath c = new ChessMath();
         UI.printBoard(c.getPieces());
-
-
     }
 }
