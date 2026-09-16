@@ -14,4 +14,6 @@ public class Piece {
         return board;
     }
 
+    public abstract boolean[][] posibleMoves();
+
 }
