@@ -1,7 +1,7 @@
 ## ♟️ Jogo de Xadrez em Java
 # 1. Nome do Projeto
 
-Jogo de Xadrez em Java
+Chess Game 
 
 # 2. Descrição do Projeto
 O projeto consiste no desenvolvimento de um jogo de xadrez para dois jogadores, executado através do terminal.
